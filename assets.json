@@ -1,0 +1,153 @@
+{
+  "style": "flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art",
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 mobile game background, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Deep midnight-blue night sky over distant pale marble peaks along the bottom edge, scattered small stars, a soft violet and cyan aurora band across the upper third, drifting golden mosaic dust. Calm uncluttered centre so interface can sit on top. No text, no UI elements, no characters."
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Textures/_BASE/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 mobile game background, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Very soft midnight-blue sky with faint violet cloud bands and a dim golden glow near the lower horizon, low contrast and almost flat so the interface stays readable on top. No text, no UI elements, no characters."
+    },
+    {
+      "name": "sprite_hex_line",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with a thick glowing golden path entering at the LEFT edge of the hexagon and leaving at the RIGHT edge. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, flat edges left and right, the path enters at the LEFT edge and leaves at the RIGHT edge. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_bend",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with a thick glowing golden path entering at the LEFT edge of the hexagon, curving through the middle and leaving at the UPPER-RIGHT edge. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, the path enters at the LEFT edge and leaves at the UPPER-RIGHT edge. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_fork",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with three thick glowing golden paths meeting at a small round node in the middle and leaving at the UPPER-RIGHT edge, the LOWER-RIGHT edge and the LEFT edge, spaced evenly like a three-pointed star. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, arms leave at the UPPER-RIGHT, LOWER-RIGHT and LEFT edges. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_elbow",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with a thick glowing golden path entering at the UPPER-RIGHT edge of the hexagon, making a short turn near the rim and leaving at the RIGHT edge. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, the path enters at the UPPER-RIGHT edge and leaves at the RIGHT edge. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_tee",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with three thick glowing golden paths meeting at a small round node in the middle and leaving at the UPPER-RIGHT edge, the RIGHT edge and the LOWER-LEFT edge. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, arms leave at the UPPER-RIGHT, RIGHT and LOWER-LEFT edges. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_cap_cloud",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with one thick glowing golden path entering at the UPPER-RIGHT edge and ending at a carved pale cloud medallion in the middle of the tile. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, the single path enters at the UPPER-RIGHT edge and stops in the middle. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_cap_bolt",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with one thick glowing cyan path entering at the UPPER-RIGHT edge and ending at a carved lightning-bolt medallion in the middle of the tile. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, the single path enters at the UPPER-RIGHT edge and stops in the middle. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_cap_rosette",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Dark blue marble face with one thick glowing golden path entering at the UPPER-RIGHT edge and ending at a carved golden sun rosette medallion in the middle of the tile. STRICT ORIENTATION: pointy-top hexagon with a sharp point at the top and at the bottom, the single path enters at the UPPER-RIGHT edge and stops in the middle. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_blank",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal stone mosaic tile, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Plain dark blue marble face with a faint carved star pattern and a thin golden rim, completely closed with no paths and no openings on any edge. Symmetrical. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_hex_lit",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pointy-top hexagonal glowing outline ring, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Bright warm golden hexagonal halo with a soft outer glow and a completely hollow transparent middle, used as a highlight ring laid over a tile. Symmetrical. Hexagon fills the frame, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_emblem_mark",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single abstract emblem, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. A golden hexagonal rosette built from seven small mosaic hexagons with a cyan lightning bolt crossing its centre and thin laurel accents at the sides. A pure symbol with absolutely no letters and no words. Symmetrical, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single thick chevron arrow icon pointing LEFT, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Cream coloured arrow with a thin golden rim. STRICT ORIENTATION: the arrow points LEFT. Centred, one object only, no text."
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single pause icon made of two thick vertical marble bars side by side, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Cream bars with thin golden rims, symmetrical. Centred, one object only, no text."
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single close icon, a thick diagonal cross, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Cream cross with a thin golden rim, symmetrical. Centred, one object only, no text."
+    },
+    {
+      "name": "sprite_badge_laurel",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single small laurel wreath badge, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Golden laurel ring around a tiny hexagonal gem, symmetrical. Centred, one object only, no text."
+    },
+    {
+      "name": "sprite_mote_spark",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single small four-point sparkle mote, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Warm golden spark with a soft halo, symmetrical. Centred, one object only, no text."
+    },
+    {
+      "name": "sprite_frame_sheet",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single rectangular ornate panel frame, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Deep blue marble plate with a golden Greek key border running around all four edges, softly rounded corners and a flat uniform middle area that can be stretched. Symmetrical, centred, one object only, no text."
+    },
+    {
+      "name": "sprite_bar_divider",
+      "type": "sprite",
+      "transparent": true,
+      "hard_edges": false,
+      "prompt": "One single horizontal ornamental divider bar, flat vector cartoon, bold clean outlines, soft cel shading, stylised Greek-myth celestial mosaic, mobile game art. Thin golden Greek key strip with small hexagonal end caps and a plain stretchable middle. Symmetrical, centred, one object only, no text."
+    }
+  ],
+  "icon": {
+    "hero": "sprite_hex_cap_bolt",
+    "accents": [
+      "sprite_hex_cap_rosette",
+      "sprite_badge_laurel"
+    ],
+    "note": "one golden mosaic stone with a cyan bolt crossing it, over a crop of the game's own night-sky background; no lettering of any kind"
+  }
+}

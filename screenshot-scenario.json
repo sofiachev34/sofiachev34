@@ -1,0 +1,14 @@
+{
+  "note": "tapFrac values are normalised screen coordinates (x from the left, y from the TOP) computed from the real RectTransforms over the canvas reference 1242x2688 inside the 1242x2760 logical canvas the Expand scaler produces on a 1080x2400 phone, plus the 36-unit offset AspecterSA adds. World targets use (5 - worldY) / 10.",
+  "steps": [
+    { "wait": 4, "shot": "01_menu" },
+    { "tapFrac": [0.500, 0.6996], "label": "HOW TO PLAY", "wait": 2, "shot": "02_how_to_turn" },
+    { "tapFrac": [0.500, 0.9118], "label": "NEXT", "wait": 2, "shot": "03_how_to_link" },
+    { "tapFrac": [0.500, 0.9118], "label": "START", "wait": 2, "shot": "-" },
+    { "tapFrac": [0.500, 0.6217], "label": "TRIALS", "wait": 2, "shot": "04_trial_list" },
+    { "tapFrac": [0.299, 0.4366], "label": "TRIAL 3 CHIP", "waitLoader": true, "shot": "05_board" },
+    { "tapFrac": [0.500, 0.4950], "label": "CENTRE STONE", "wait": 2, "shot": "06_stone_turned" },
+    { "tapFrac": [0.672, 0.4950], "label": "RIGHT STONE", "wait": 2, "shot": "07_links_grow" },
+    { "tapFrac": [0.911, 0.0529], "label": "PAUSE", "wait": 2, "shot": "08_paused" }
+  ]
+}
